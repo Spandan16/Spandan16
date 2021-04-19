@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spandan16
-- 👀 I’m interested in Building Website. I have created some **Free and Opensource** which you can heck out below.
+- 👀 I’m interested in Building Website. I have created some **Free and Opensource** web templates which you can check out below.
 <br>And I also have some paid templates for which i have uploaded only the .JPG File. Contact me in my email for Further information and for buying the templates
 - 🌱 I’m currently learning ML/DL, and that's what I am interested in!😉
 - 💞️ I’m looking to collaborate on <b>NOTHING</b>😁🤓
