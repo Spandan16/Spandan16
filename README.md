@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ML/DL, and that's what I am interested in!😉
 - 💞️ I’m looking to collaborate on <b>NOTHING</b>😁🤓
 - 📫 How to reach me <a href="https://spandan16.github.io/">Visit my Website</a><br><br>
-- I can also clone any static website. you can give suggestions in <a href="https://github.com/spandan16/suggestions-for-web/?tab=issues/">in this repo</a><BR>
+- I can also clone any static website. you can give suggestions in <a href="https://github.com/spandan16/suggestions-for-web/issues/">in this repo</a><BR>
 - Simply go to the issues section and give me a suggestion 😉
 
 <!---
